@@ -97,5 +97,3 @@
 ![Alt-текст](./Без%20названия.png "Заголовок изображения")
  
   My FullName : Ibragimov Usmon 
- ----------------# repository-of-markdown
-' repository of markdown '
